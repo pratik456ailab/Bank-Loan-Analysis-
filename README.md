@@ -2,6 +2,7 @@ Bank Loan Analysis
 
 
 PROBLEM STATEMENT
+
 DASHBOARD 1: SUMMARY
 Key Performance Indicators (KPIs) Requirements:
 1.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
@@ -23,10 +24,10 @@ Bad Loan
 Bad Loan Total Received Amount
 
 
-
-
 Loan Status Grid View
 In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
+
+
 
 DASHBOARD 2: OVERVIEW
 CHARTS
@@ -37,6 +38,9 @@ CHARTS
 5.	Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 6.	Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
 Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'
+
+
+
 DASHBOARD 3: DETAILS
 GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
